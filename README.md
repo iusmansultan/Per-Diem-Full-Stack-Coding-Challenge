@@ -254,27 +254,6 @@ Implemented in-memory caching with TTL for:
 
 5. **Authentication**: No user authentication implemented. All users see the same menu.
 
-## Deployment
-
-### Vercel (Recommended)
-
-1. Push code to GitHub
-2. Import project in Vercel
-3. Add environment variables:
-   - `SQUARE_ACCESS_TOKEN`
-   - `SQUARE_ENVIRONMENT`
-4. Deploy
-
-### Railway
-
-1. Connect GitHub repository
-2. Add environment variables
-3. Deploy
-
-### Docker
-
-See Docker section above for containerized deployment.
-
 ## Bonus Features Implemented
 
 - ✅ Dark mode toggle
