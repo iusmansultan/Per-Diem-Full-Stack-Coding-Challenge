@@ -6,8 +6,8 @@ import { ThemeProvider } from '@/components/ThemeProvider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Square Menu App',
-  description: 'Browse restaurant menu items powered by Square',
+  title: 'Per-Diem Menu App',
+  description: 'Browse restaurant menu items powered by Per-Diem',
 };
 
 export const viewport: Viewport = {
